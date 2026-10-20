@@ -1,0 +1,11 @@
+{
+  "name": "design-is-code",
+  "description": "Transform UML sequence diagrams and decision tables into Java tests and code. The DisC methodology makes design the contract, code the consequence.",
+  "version": "0.11.2",
+  "author": {
+    "name": "Moss Gu"
+  },
+  "repository": "https://github.com/mossgreen/design-is-code-plugin",
+  "license": "MIT",
+  "keywords": ["uml", "code-generation", "tdd", "java", "disc"]
+}

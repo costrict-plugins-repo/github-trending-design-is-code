@@ -1,0 +1,16 @@
+{
+  "name": "mossgreen-design-is-code",
+  "owner": {
+    "name": "Moss Gu",
+    "email": "mossgu@outlook.com"
+  },
+  "metadata": {
+    "description": "Transform UML sequence diagrams and decision tables into Java tests and code. Design is the contract, code is the consequence."
+  },
+  "plugins": [
+    {
+      "name": "design-is-code",
+      "source": "./"
+    }
+  ]
+}
